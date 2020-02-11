@@ -24,7 +24,7 @@
         "obsidian-file": "^2.0.3",
         "obsidian-http-request": "^1.3.1",
         "q": "^1.5.1",
-        "request": "^2.85.0",
+        "request": "^2.88.2",
         "semver": "^5.5.0",
         "uuid": "^3.2.1"
     },
